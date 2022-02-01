@@ -1,0 +1,23 @@
+.col-12, .col-10, .col-8, .col-6, .col-4, .col-2{
+	padding: 10px;
+	border: 1px solid white;
+}
+
+.col-12{
+	background-color: #73bffa;
+}
+.col-10{
+	background-color: green;
+}
+.col-8{
+	background-color: blue;
+}
+.col-6{
+	background-color: red;
+}
+.col-4{
+	background-color: yellow;
+}
+.col-2{
+	background-color: purple;
+}

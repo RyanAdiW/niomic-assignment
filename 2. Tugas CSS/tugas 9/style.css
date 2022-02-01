@@ -1,0 +1,20 @@
+body{
+	background-image: url("Labuan-Bajo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img{
+	right: 10px;
+	top: 10px;
+	position: absolute;
+	z-index: -1;
+}
+
+div{
+	float: right;
+	text-align: right;
+	width: 40rem;
+	background-color: white;
+	float: right;
+}

@@ -1,0 +1,32 @@
+header{
+	background-color: black;
+}
+
+nav{
+	padding: 5px;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+}
+
+ul li{
+	display: inline;
+	list-style-type: none;
+	margin-right:20px; 
+}
+
+p{
+	text-align: justify;
+	column-count:4;
+	column-width: 300px;
+	column-rule: 2px double black;
+}
+
+footer{
+	height: 40px;
+	text-align: center;
+	background-color: black;
+	color: white;
+}

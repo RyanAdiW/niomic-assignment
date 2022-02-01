@@ -1,0 +1,23 @@
+header{
+	background-color: black;
+	margin: 1rem 0;
+}
+
+p{
+	text-align: justify;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.slider-div{
+	text-align:center;
+}
+
+.menu{
+	color: white;
+	text-transform: uppercase;
+}

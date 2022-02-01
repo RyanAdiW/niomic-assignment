@@ -1,0 +1,13 @@
+/*CSS kepanjangannya adalah Cascading Style Sheets. 
+Singkatnya adalah sebuah code atau program untuk
+memendesain suatu text pada halaman web.*/
+
+p{
+	font-size: 18px;
+	color: blue;
+}
+
+.logo{
+	height: 25px;
+	width: 25px;
+}
